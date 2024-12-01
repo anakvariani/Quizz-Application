@@ -1,0 +1,92 @@
+[
+  {
+    "Username": "ani",
+    "Password": "ani123",
+    "QuizRecords": [
+      {
+        "QuizTitle": "davitis quiz",
+        "BestScore": 60,
+        "CompletionDate": "2024-11-28T19:23:08.7687993+04:00"
+      },
+      {
+        "QuizTitle": "rusas quiz",
+        "BestScore": 100,
+        "CompletionDate": "2024-11-28T19:23:30.6437531+04:00"
+      }
+    ],
+    "TotalScore": 160
+  },
+  {
+    "Username": "rusa",
+    "Password": "rusa123",
+    "QuizRecords": [
+      {
+        "QuizTitle": "anis quiz",
+        "BestScore": 100,
+        "CompletionDate": "2024-11-28T04:49:44.9635986+04:00"
+      },
+      {
+        "QuizTitle": "davitis quiz",
+        "BestScore": 100,
+        "CompletionDate": "2024-11-28T04:52:32.9938372+04:00"
+      }
+    ],
+    "TotalScore": 200
+  },
+  {
+    "Username": "daviti",
+    "Password": "daviti123",
+    "QuizRecords": [
+      {
+        "QuizTitle": "anis quiz",
+        "BestScore": 100,
+        "CompletionDate": "2024-11-28T04:27:33.333456+04:00"
+      },
+      {
+        "QuizTitle": "rusas quiz",
+        "BestScore": 60,
+        "CompletionDate": "2024-11-28T20:04:22.6092429+04:00"
+      },
+      {
+        "QuizTitle": "1",
+        "BestScore": 20,
+        "CompletionDate": "2024-12-01T20:15:05.892639+04:00"
+      },
+      {
+        "QuizTitle": "anisquiz2 ",
+        "BestScore": 40,
+        "CompletionDate": "2024-12-01T20:29:30.9289531+04:00"
+      }
+    ],
+    "TotalScore": 220
+  },
+  {
+    "Username": "qeti",
+    "Password": "qeti123",
+    "QuizRecords": [
+      {
+        "QuizTitle": "davitis quiz",
+        "BestScore": 60,
+        "CompletionDate": "2024-11-28T20:19:10.4868502+04:00"
+      },
+      {
+        "QuizTitle": "anis quiz 2",
+        "BestScore": 80,
+        "CompletionDate": "2024-11-28T20:46:57.5746152+04:00"
+      }
+    ],
+    "TotalScore": 140
+  },
+  {
+    "Username": "anzori",
+    "Password": "anzori123",
+    "QuizRecords": [
+      {
+        "QuizTitle": "anis quiz",
+        "BestScore": 40,
+        "CompletionDate": "2024-11-30T01:53:52.7745148+04:00"
+      }
+    ],
+    "TotalScore": 40
+  }
+]

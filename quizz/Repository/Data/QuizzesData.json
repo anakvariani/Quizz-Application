@@ -1,0 +1,282 @@
+[
+  {
+    "Title": "anis quiz",
+    "CreatorUsername": "ani",
+    "Questions": [
+      {
+        "QuestionText": "2-1",
+        "Options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "CorrectAnswerIndex": 0
+      },
+      {
+        "QuestionText": "didgori?",
+        "Options": [
+          "1122",
+          "1121",
+          "1231",
+          "1231"
+        ],
+        "CorrectAnswerIndex": 1
+      },
+      {
+        "QuestionText": "2\u002B2?",
+        "Options": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "CorrectAnswerIndex": 2
+      },
+      {
+        "QuestionText": "4*2?",
+        "Options": [
+          "1",
+          "2",
+          "3",
+          "8"
+        ],
+        "CorrectAnswerIndex": 3
+      },
+      {
+        "QuestionText": "6-5?",
+        "Options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "CorrectAnswerIndex": 0
+      }
+    ]
+  },
+  {
+    "Title": "davitis quiz",
+    "CreatorUsername": "daviti",
+    "Questions": [
+      {
+        "QuestionText": "5-0",
+        "Options": [
+          "1",
+          "2",
+          "3",
+          "5"
+        ],
+        "CorrectAnswerIndex": 3
+      },
+      {
+        "QuestionText": "5*0=",
+        "Options": [
+          "0",
+          "1",
+          "2",
+          "3"
+        ],
+        "CorrectAnswerIndex": 0
+      },
+      {
+        "QuestionText": "4-1=",
+        "Options": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "CorrectAnswerIndex": 1
+      },
+      {
+        "QuestionText": "0-0=",
+        "Options": [
+          "1",
+          "0",
+          "9",
+          "8"
+        ],
+        "CorrectAnswerIndex": 1
+      },
+      {
+        "QuestionText": "7*5",
+        "Options": [
+          "35",
+          "32",
+          "34",
+          "36"
+        ],
+        "CorrectAnswerIndex": 0
+      }
+    ]
+  },
+  {
+    "Title": "rusas quiz",
+    "CreatorUsername": "rusa",
+    "Questions": [
+      {
+        "QuestionText": "2-2",
+        "Options": [
+          "0",
+          "1",
+          "2",
+          "3"
+        ],
+        "CorrectAnswerIndex": 0
+      },
+      {
+        "QuestionText": "2-1",
+        "Options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "CorrectAnswerIndex": 0
+      },
+      {
+        "QuestionText": "5-1",
+        "Options": [
+          "4",
+          "2",
+          "1",
+          "3"
+        ],
+        "CorrectAnswerIndex": 0
+      },
+      {
+        "QuestionText": "9-8",
+        "Options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "CorrectAnswerIndex": 0
+      },
+      {
+        "QuestionText": "4-3",
+        "Options": [
+          "1",
+          "12",
+          "123",
+          "3"
+        ],
+        "CorrectAnswerIndex": 0
+      }
+    ]
+  },
+  {
+    "Title": "qetis quiz",
+    "CreatorUsername": "qeti",
+    "Questions": [
+      {
+        "QuestionText": "3-1",
+        "Options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "CorrectAnswerIndex": 1
+      },
+      {
+        "QuestionText": "2-2",
+        "Options": [
+          "1",
+          "20",
+          "0",
+          "2"
+        ],
+        "CorrectAnswerIndex": 2
+      },
+      {
+        "QuestionText": "2-1",
+        "Options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "CorrectAnswerIndex": 0
+      },
+      {
+        "QuestionText": "3*7",
+        "Options": [
+          "21",
+          "1",
+          "2",
+          "3"
+        ],
+        "CorrectAnswerIndex": 0
+      },
+      {
+        "QuestionText": "2*2",
+        "Options": [
+          "4",
+          "5",
+          "3",
+          "4"
+        ],
+        "CorrectAnswerIndex": 0
+      }
+    ]
+  },
+  {
+    "Title": "anzoris quiz",
+    "CreatorUsername": "anzori",
+    "Questions": [
+      {
+        "QuestionText": "2-2",
+        "Options": [
+          "0",
+          "1",
+          "2",
+          "3"
+        ],
+        "CorrectAnswerIndex": 0
+      },
+      {
+        "QuestionText": "3-3",
+        "Options": [
+          "0",
+          "1",
+          "2",
+          "3"
+        ],
+        "CorrectAnswerIndex": 0
+      },
+      {
+        "QuestionText": "2*4",
+        "Options": [
+          "8",
+          "2",
+          "3",
+          "4"
+        ],
+        "CorrectAnswerIndex": 0
+      },
+      {
+        "QuestionText": "4-4",
+        "Options": [
+          "0",
+          "1",
+          "2",
+          "3"
+        ],
+        "CorrectAnswerIndex": 0
+      },
+      {
+        "QuestionText": "4*5",
+        "Options": [
+          "20",
+          "2",
+          "3",
+          "1"
+        ],
+        "CorrectAnswerIndex": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\quizz\models\bin\Debug\net8.0\models.deps.json
+C:\Users\Owner\source\repos\quizz\models\bin\Debug\net8.0\models.dll
+C:\Users\Owner\source\repos\quizz\models\bin\Debug\net8.0\models.pdb
+C:\Users\Owner\source\repos\quizz\models\obj\Debug\net8.0\models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\quizz\models\obj\Debug\net8.0\models.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\quizz\models\obj\Debug\net8.0\models.AssemblyInfo.cs
+C:\Users\Owner\source\repos\quizz\models\obj\Debug\net8.0\models.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\quizz\models\obj\Debug\net8.0\models.dll
+C:\Users\Owner\source\repos\quizz\models\obj\Debug\net8.0\refint\models.dll
+C:\Users\Owner\source\repos\quizz\models\obj\Debug\net8.0\models.pdb
+C:\Users\Owner\source\repos\quizz\models\obj\Debug\net8.0\ref\models.dll
